@@ -16,6 +16,8 @@
   </modules>
          
   <properties>
+            <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
   <sonar.projectKey>Harvey2504_maven-samples</sonar.projectKey>
   <sonar.organization>myfirstappinqube</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
